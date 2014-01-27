@@ -45,7 +45,7 @@ HEADERS += \
     quazipex.h
 
 DEFINES += QUAZIP_BUILD
-INCLUDEPATH += C:/Qt/Qt5.0.2/5.0.2/mingw47_32/include/QtZlib
+INCLUDEPATH += C:/Qt/Qt5.2.0/5.2.0/mingw48_32/include/QtZlib
 
 unix:!symbian {
     maemo5 {
